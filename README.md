@@ -1,1 +1,1 @@
-# Counter---JavaScript
+# Counter using JavaScript HTML CSS
